@@ -12,3 +12,4 @@ args:
   CLI_VERSION: 4.34.0
   LIBWEBSOCKETS_VERSION: 4.3.3
   TTYD_VERSION: 1.7.4
+nano configuration.yaml
